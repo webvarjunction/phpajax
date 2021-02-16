@@ -1,0 +1,2 @@
+username = phpajax
+password = php@123
